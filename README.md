@@ -18,4 +18,14 @@ WDS_AGGREGATE_TIMEOUT=200
 WDS_POLLING_INTERVAL=1000
 WSD_WATCH_IGNORE=**/node_modules
 ```
+## Change to package.json
 
+```
+  "scripts": {
+    "start": "cloned-react-scripts start",
+    "build": "cloned-react-scripts build",
+    "test": "cloned-react-scripts test",
+    "eject": "cloned-react-scripts eject",
+    .../
+  }
+```
