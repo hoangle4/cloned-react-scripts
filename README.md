@@ -16,7 +16,7 @@ This package include a pending pull request [https://github.com/facebook/create-
 WDS_POLLING=true
 WDS_AGGREGATE_TIMEOUT=200
 WDS_POLLING_INTERVAL=1000
-WSD_WATCH_IGNORE=**/node_modules
+WDS_WATCH_IGNORE=**/node_modules
 ```
 ## Change to package.json
 
